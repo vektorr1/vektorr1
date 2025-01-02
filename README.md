@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vektorr1
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML, Css, JavaScript and Figma
-- 💞️ I’m looking to collaborate on Webpages Design and User experience
+- 🌱 I’m currently learning Cyber security and i have some interest in UI/UX so am learning Figma
+- 💞️ I’m looking to getting a new laptop to expand my knowledge reach snd productivity
 - 📫 How to reach me @emekavictor162@gmail.com
 
 <!---
