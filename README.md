@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vektorr1
+- 👋 Hi, I’m @PLUTODEV
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Cyber security and i have some interest in UI/UX so am learning Figma
 - 💞️ I’m looking to getting a new laptop to expand my knowledge reach snd productivity
